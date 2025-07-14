@@ -45,7 +45,7 @@ _Agrega aquí screenshots si los tienes, mostrando la interfaz o flujos del chat
 
 ```bash
 git clone https://github.com/tuusuario/chat-realtime.git
-cd chat-realtime
+cd chatRealTime
 
 2. Configura las variables de entorno
 Crea un archivo .env tanto en el frontend como en el backend (según lo necesites) con al menos las siguientes variables:
