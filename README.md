@@ -47,6 +47,35 @@ _Agrega aquí screenshots si los tienes, mostrando la interfaz o flujos del chat
 git clone https://github.com/tuusuario/chat-realtime.git
 cd chat-realtime
 
+2. Configura las variables de entorno
+Crea un archivo .env tanto en el frontend como en el backend (según lo necesites) con al menos las siguientes variables:
+
+env
+Copiar
+Editar
+# .env del backend
+JWT_SECRET=tu_clave_secreta
+DB_NAME=nombre_basededatos
+DB_USER=usuario
+DB_PASSWORD=clave
+DB_HOST=localhost
+
+3. Instala dependencias y ejecuta el Backend
+bash
+Copiar
+Editar
+cd backend
+npm install
+npm run dev
+
+4. Instala dependencias y ejecuta el Frontend
+bash
+Copiar
+Editar
+cd frontend
+npm install
+npm run dev
+
 
 ✍️ Autor
 Marcos Antonio Tovar Torres
