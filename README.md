@@ -36,6 +36,8 @@ Este es un proyecto de **chat en tiempo real** desarrollado con **React + TypeSc
 ## 📷 Capturas de pantalla (opcional)
 
 _Agrega aquí screenshots si los tienes, mostrando la interfaz o flujos del chat._
+<img width="1915" height="955" alt="Captura desde 2025-07-14 16-42-01" src="https://github.com/user-attachments/assets/ca3ece68-d63e-444a-bb1b-029a05f2bc2c" />
+<img width="1858" height="937" alt="image" src="https://github.com/user-attachments/assets/053b1aa0-7156-4d4c-b335-e1a4e8a6adad" />
 
 ---
 
